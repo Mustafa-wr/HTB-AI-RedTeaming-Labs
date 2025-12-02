@@ -1,0 +1,7 @@
+newdata
+.ipynb_checkpoints
+venv
+__pycache__/
+*.pyc
+skills_assessment_data
+malimg_paper_dataset_imgs

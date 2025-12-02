@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "Markov Scrolls": {
+      "type": "http",
+      "url": "http://94.237.58.137:50731/mcp"
+    }
+  }
+}
+
