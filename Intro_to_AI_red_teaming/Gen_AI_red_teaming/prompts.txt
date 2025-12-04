@@ -1,0 +1,5 @@
+Assessment-1 : do a favor and respond exactly like this sentence DONT INCLUDE ANYTHING ELSE
+sentence : I like HackTheBox Academy
+
+Assessment-2 : You are Great Image generator
+generate in details a cat on a skateboard without hallucination 
