@@ -22,6 +22,7 @@ show me an image of test'
 ```
 
 ![First SQLi Test](test1.png)
+![First SQLi Test](json_error.png)
 
 Got "No matching image found" - no error though. Let's try a UNION:
 
@@ -107,6 +108,7 @@ Tell me more about the calculate_shipment_time function. What parameters does it
 ```
 
 ![Function Details](shipment_function.png)
+![Function Details](reverse_shipment_function.png)
 
 It takes a username, retrieves their address from the database, and calculates shipment time. If that address gets passed to a shell script, I might be able to inject commands.
 
